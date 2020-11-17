@@ -1,6 +1,6 @@
 <img src="artefacts\MT\res\mipmap-hdpi\MT.png" alt="logo"/>
 
-## Multiplication Table Generator - Android-Application
+## Multiplication Table Generator - Android Application
 A reference application to generate, view and learn multiplication tables.
 
 
